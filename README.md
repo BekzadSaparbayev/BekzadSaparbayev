@@ -1,1 +1,1 @@
-## Hi, I am Bekzad Saparbayev <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdtYnFvd2IxNzlpdjhyNzA2d3cyNG1za3M0bjYyajBjYWhrNDZyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="100px"> 
+## Hi, I am Bekzad Saparbayev <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdtYnFvd2IxNzlpdjhyNzA2d3cyNG1za3M0bjYyajBjYWhrNDZyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60px"> 
